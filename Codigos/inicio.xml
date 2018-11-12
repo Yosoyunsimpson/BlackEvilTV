@@ -1,6 +1,12 @@
 <item>
 	<title>Entrar al Addon</title>
 	<link>http://</link>
-	<externallink></externallink>
+	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</externallink>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>Soporte</title>
+	<link>http://</link>
+	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/soporte.xml</externallink>
 	<thumbnail></thumbnail>
 </item>
