@@ -23,7 +23,7 @@
 
 <addon id="plugin.video.BlackEvilTV"
        name="[COLOR gold]BlackEvilTV[/COLOR]"
-       version="1.0"
+       version="6.0"
        provider-name="BlackEvilTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
