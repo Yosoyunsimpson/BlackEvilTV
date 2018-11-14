@@ -20,32 +20,32 @@
 <item>
 <title>Movistar Fútbol</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
 </item>
 <item>
 <title>Eurosport 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/133.ts</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>beIN La Liga HD (Opcion2)</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</thumbnail>
 </item>
 <item>
 <title>beIN La Liga HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
+</item>
+<item>
+<title>beIN La Liga HD (Opcion2)</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts</link>
+<thumbnail>https://s3-static-bein.s3.amazonaws.com/uploads/comun/img/logos/bein-laliga-md.png</thumbnail>
 </item>
 <item>
 <title>#Vamos HD (Opcion2)</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/130.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/1039188087157518336/uDS7n0zq_400x400.jpg</thumbnail>
 </item>
 <item>
 <title>AMC HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/125.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png</thumbnail>
 </item>
 <item>
 <title>AXN</title>
@@ -65,7 +65,7 @@
 <item>
 <title>BeMad</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/123.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png</thumbnail>
 </item>
 <item>
 <title>Movistar  Series Xtra</title>
