@@ -1,26 +1,26 @@
 <item>
 <title>LA 1</title>
-<link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/1.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/1.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>LA 2</title>
-<link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/2.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/2.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>ANTENA 3</title>
-<link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/4.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/4.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>TELECINCO</title>
-<link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/7.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/7.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>NEOX</title>
-<link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/43.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/43.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -31,6 +31,6 @@
 </item>
 <item>
 <title>FDF</title>
-<link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/12.ts</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/12.ts</link>
 <thumbnail></thumbnail>
 </item>
