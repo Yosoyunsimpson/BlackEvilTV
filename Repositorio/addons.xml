@@ -52,7 +52,24 @@
   </extension>
 </addon>
 
-<addon id="repository.BlackEvilTV" name="[COLOR lime]REPOSITORIO DE BlackEvilTV[/COLOR] Repo" version="1.1.2" provider-name="BlackEvilTV">
+<addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.video.F4mProxy" version="2.7.1"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+
+
+    <extension point="xbmc.addon.metadata">
+        <summary>f4mTester</summary>
+        <description></description>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+<addon id="repository.BlackEvilTV" name="[COLOR lime]REPOSITORIO DE BlackEvilTV[/COLOR] Repo" version="1.1.3" provider-name="BlackEvilTV">
     <extension point="xbmc.addon.repository" name="Repositorio de BlackEvilTV">
         <info>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/addons.xml.md5</checksum>
