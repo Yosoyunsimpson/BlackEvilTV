@@ -4,12 +4,12 @@
 
 <item>
 <title>========www.BlacKEvilTV.com==========</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://blackeviltv.com/free/blackeviltv.mp4</link>
+<link>http://blackeviltv.com/free/blackeviltv.mp4</link>
 <thumbnail></thumbnail>
 </item>
 <item>
 <title>.:Actualizada el 13/11/2018:.</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://blackeviltv.com/free/Black1.mkv</link>
+<link>http://blackeviltv.com/free/Black1.mkv</link>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -469,7 +469,7 @@
 </item>
 <item>
 <title>.:: EVENTOS BlacKEviLTV ::.</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://blackeviltv.com/free/Black4.mkv</link>
+<link>http://blackeviltv.com/free/Black4.mkv</link>
 <thumbnail></thumbnail>
 </item>
 
