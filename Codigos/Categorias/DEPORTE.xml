@@ -1,12 +1,12 @@
 <item>
 <title>Movistar Futbol</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/132.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png</thumbnail>
 </item>
  <item>
 <title>Eurosport 2</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/133.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg</thumbnail>
 </item>
 <item>
 <title>beIN La Liga HD (Opcion2)</title>
