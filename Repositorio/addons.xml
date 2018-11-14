@@ -23,7 +23,7 @@
 
 <addon id="plugin.video.BlackEvilTV"
        name="[COLOR gold]BlackEvilTV[/COLOR]"
-       version="6.0"
+       version="6.1"
        provider-name="BlackEvilTV">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -34,7 +34,8 @@
     <import addon="script.module.httplib2" />
     <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
     <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="plugin.video.youtube" />
+    <import addon="plugin.video.f4mTester" />
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
      <import addon="script.module.livestreamer" optional="true"/>
@@ -51,7 +52,7 @@
   </extension>
 </addon>
 
-<addon id="repository.BlackEvilTV" name="[COLOR lime]REPOSITORIO DE BlackEvilTV[/COLOR] Repo" version="1.1.1" provider-name="BlackEvilTV">
+<addon id="repository.BlackEvilTV" name="[COLOR lime]REPOSITORIO DE BlackEvilTV[/COLOR] Repo" version="1.1.2" provider-name="BlackEvilTV">
     <extension point="xbmc.addon.repository" name="Repositorio de BlackEvilTV">
         <info>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/addons.xml.md5</checksum>
