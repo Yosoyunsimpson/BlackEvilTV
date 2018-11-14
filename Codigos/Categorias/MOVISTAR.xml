@@ -86,5 +86,5 @@
 <item>
 <title>Movistar Accion HD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/27.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png</thumbnail>
 </item>
