@@ -1,5 +1,5 @@
 name="Wizard de BlackEvilTV"
-url="https://archive.org/download/BlackEvilTVWizard/BlackEvilTV-Wizard.zip"
+url="https://archive.org/download/j_Kodi/Kodi.zip"
 img=""
 fanart=""
 description=""
