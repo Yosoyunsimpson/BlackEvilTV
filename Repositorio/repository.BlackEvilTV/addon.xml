@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.BlackEvilTV" name="[COLOR lime]REPOSITORIO DE BlackEvilTV[/COLOR] Repo" version="1.2" provider-name="BlackEvilTV">
+<addon id="repository.BlackEvilTV" name="[COLOR lime]REPOSITORIO DE BlackEvilTV[/COLOR] Repo" version="1.2.1" provider-name="BlackEvilTV">
     <extension point="xbmc.addon.repository" name="Repositorio de BlackEvilTV">
         <info>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/addons.xml.md5</checksum>
