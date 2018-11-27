@@ -3,7 +3,7 @@
 <channel>
       <name>Categorias</name>
   <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
 <link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/categorias.xml</link>
    <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/categorias.xml</externallink>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
       <name>Lista Sin XXX</name>
   <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
 <link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV.m3u</link>
    <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV.m3u</externallink>
 </channel>
@@ -25,7 +25,7 @@
 <channel>
       <name>Lista con XXX</name>
   <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
 <link>http://spainfree.blackeviltv.com:9000/get.php?username=blackeviltv&password=gratis&type=m3u&output=hls</link>
    <externallink>http://spainfree.blackeviltv.com:9000/get.php?username=blackeviltv&password=gratis&type=m3u&output=hls</externallink>
 </channel>
