@@ -1,9 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  
+    
 <channels>
 
 <channel>
       <name>Entrar al Addon</name>
-  <thumbnail></thumbnail>
-<fanart></fanart>
+  <thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
 <link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</link>
    <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</externallink>
 </channel>
