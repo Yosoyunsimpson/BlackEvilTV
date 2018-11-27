@@ -1,41 +1,32 @@
-<item>
-<title>[COLOR blue]                         Programacion [/COLOR]</title>
- <link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR blue][B][makelist.param1][/B][/COLOR][COLOR green][B][makelist.param2] [makelist.param3][/B][/COLOR][COLOR lime][makelist.param4] [makelist.param5][/COLOR]</title>
-<link>$doregex[ip]|User-Agent=iPad</link>
-<thumbnail>https://img.webme.com/pic/e/eric-cast/guiatv.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
-]]></listrepeat>
-<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
-<page>http://www.formulatv.com/programacion/</page>
-</regex>
-<thumbnail>https://img.webme.com/pic/e/eric-cast/guiatv.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/MrTvGratis/TvGratis/master/imagenes%20tvgratis/icon1.png</fanart>
- </item>
-<item>
-	<title>Categorias</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/categorias.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Lista sin XXX</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/IPTV.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Lista con XXX</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/IPTV%2BXXX.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Zona Tecnica (tutoriales)</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/TUTORIALES.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
+<channels>
+
+<channel>
+      <name>Categorias</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/categorias.xml</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/categorias.xml</externallink>
+</channel>
+  </channels>
+
+<channels>
+
+<channel>
+      <name>Lista Sin XXX</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV.m3u</externallink>
+</channel>
+  </channels>
+
+<channels>
+
+<channel>
+      <name>Lista con XXX</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://spainfree.blackeviltv.com:9000/get.php?username=blackeviltv&password=gratis&type=m3u&output=hls</link>
+   <externallink>http://spainfree.blackeviltv.com:9000/get.php?username=blackeviltv&password=gratis&type=m3u&output=hls</externallink>
+</channel>
+  </channels>

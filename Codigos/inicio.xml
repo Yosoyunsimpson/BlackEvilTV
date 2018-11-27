@@ -1,12 +1,21 @@
-<item>
-	<title>Entrar al Addon</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Soporte</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/soporte.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
+<channels>
+
+<channel>
+      <name>Entrar al Addon</name>
+  <thumbnail></thumbnail>
+<fanart></fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</externallink>
+</channel>
+  </channels>
+  
+<channels>
+
+<channel>
+      <name>Soporte</name>
+  <thumbnail>direccion de la portada</thumbnail>
+<fanart>http://getwallpapers.com/wallpaper/full/b/c/1/110677.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/soporte.xml</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/soporte.xml</externallink>
+</channel>
+  </channels>
