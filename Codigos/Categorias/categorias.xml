@@ -1,30 +1,54 @@
-<item>
-	<title>TDT</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/TDT.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Deporte</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/DEPORTE.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Ocio</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/OCIO.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Movistar</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/MOVISTAR.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Adultos</title>
-	<link>http://</link>
-	<externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/XXX.xml</externallink>
-	<thumbnail></thumbnail>
-</item>
+<channels>
+
+<channel>
+      <name>TDT</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/TDT.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/TDT.m3u</externallink>
+</channel>
+  </channels>
+  
+<channels>
+
+<channel>
+      <name>DEPORTE</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/DEPORTE.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/DEPORTE.m3u</externallink>
+</channel>
+  </channels>
+  
+<channels>
+
+<channel>
+      <name>OCIO</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/OCIO.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/OCIO.m3u</externallink>
+</channel>
+  </channels>
+
+<channels>
+
+<channel>
+      <name>MOVISTAR</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/MOVISTAR.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/MOVISTAR.m3u</externallink>
+</channel>
+  </channels>
+  
+<channels>
+
+<channel>
+      <name>ADULTOS</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/categorias.xml</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Categorias/categorias.xml</externallink>
+</channel>
+  </channels>
