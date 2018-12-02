@@ -1,4 +1,4 @@
-name="Estilo Minimalista"
+name="BlackEvilTV 1.0 Build Minimalist"
 url="https://ia801506.us.archive.org/2/items/classic_201812/classic.zip"
 img="https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/repository.BlackEvilTV/icon.png"
 fanart="https://i.imgur.com/1aAt5ZD.jpg"
