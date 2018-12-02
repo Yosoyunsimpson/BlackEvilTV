@@ -1,17 +1,23 @@
-#EXTM3U BlackEvilTV
+#EXTM3U
 #EXTINF:-1,LA 1
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/1.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/1.m3u8
 #EXTINF:-1,LA 2
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/2.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/2.m3u8
 #EXTINF:-1,ANTENA 3
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/4.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/4.m3u8
 #EXTINF:-1,NEOX
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/43.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/43.m3u8
 #EXTINF:-1,FDF
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/12.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/12.m3u8
 #EXTINF:-1,ATRESERIES
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/16.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/16.m3u8
 #EXTINF:-1,PARAMOUNT CHANNEL
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/23.m3u8
-#EXTINF:-1,BeMad
-http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/123.m3u8
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/23.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/26.m3u8
+#EXTINF:-1,GOL TV
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/34.m3u8
+#EXTINF:-1,CLAN TVE
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/39.m3u8
+#EXTINF:-1,TELECINCO
+http://spainfree.blackeviltv.org:9000/live/blackeviltv/gratis/7.m3u8

@@ -1,0 +1,5 @@
+name="BlackEvilTV 1.0 Build Minimalist"
+url="https://archive.org/download/minimalist_201812/minimalist.zip"
+img="https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Repositorio/repository.BlackEvilTV/icon.png"
+fanart="https://i.imgur.com/1aAt5ZD.jpg"
+description="Wizard de BlackEvilTV estilo Minimalista"
