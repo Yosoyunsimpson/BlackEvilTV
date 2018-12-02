@@ -26,7 +26,7 @@
       <name>Lista con XXX</name>
   <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
-<link>http://spainfree.blackeviltv.com:9000/get.php?username=blackeviltv&password=gratis&type=m3u&output=hls</link>
-   <externallink>http://spainfree.blackeviltv.com:9000/get.php?username=blackeviltv&password=gratis&type=m3u&output=hls</externallink>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV%2BXXX.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV%2BXXX.m3u</externallink>
 </channel>
   </channels>
