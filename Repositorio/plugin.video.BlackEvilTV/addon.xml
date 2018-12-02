@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.JoseList"
-       name="[COLOR yellow]JoseList[/COLOR]"
+<addon id="plugin.video.BlackEvilTV"
+       name="[COLOR yellow]BlackEvilTV[/COLOR]"
        version="1.0.1"
        provider-name="JoseTG01">
   <requires>
@@ -21,8 +21,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Lista de canales de TV</summary>
-    <description lang="en">CANALES RETRASMITIDOS POR INTERNET Y OTRAS PLATAFORMAS</description>
+    <summary lang="en">Addon para el proyecto BlackEvilTV</summary>
+    <description lang="en">Addon para el proyecto BlackEvilTV</description>
     <platform>all</platform>
   </extension>
 </addon>
