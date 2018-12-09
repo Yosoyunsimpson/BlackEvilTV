@@ -30,3 +30,24 @@
    <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/ListaIPTV%2BXXX.m3u</externallink>
 </channel>
   </channels>
+<channels>
+
+<channel>
+      <name>Tutoriales</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Tutoriales.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Tutoriales.m3u</externallink>
+</channel>
+  </channels>
+
+<channels>
+
+<channel>
+      <name>Videos Youtube</name>
+  <thumbnail></thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Videos%20YT.m3u</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/Videos%20YT.m3u</externallink>
+</channel>
+  </channels>
