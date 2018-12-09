@@ -1,29 +1,32 @@
 #EXTM3U
+#EXTINF:-1,#Vamos
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/46.m3u8
 #EXTINF:-1,Eurosport 1
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/57.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/57.m3u8
 #EXTINF:-1,BeiN La Liga
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/59.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/59.m3u8
 #EXTINF:-1,beIN La Liga (Opcion2)
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/47.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/47.m3u8
 #EXTINF:-1,La Liga TV
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/42.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/42.m3u8
 #EXTINF:-1,LaLiga 123
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/58.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/58.m3u8
 #EXTINF:-1,Movistar Liga de Campeones
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/34.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/34.m3u8
 #EXTINF:-1,Movistar Liga de Campeones (Opcion2)
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/50.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/50.m3u8
 #EXTINF:-1,Movistar Futbol
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/44.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/44.m3u8
 #EXTINF:-1,GoL TV
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/60.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/60.m3u8
 #EXTINF:-1,Real Madrid TV
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/55.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/55.m3u8
 #EXTINF:-1,Movistar Golf
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/22.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/22.m3u8
 #EXTINF:-1,GOLF
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/43.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/43.m3u8
 #EXTINF:-1,Movistar Formula 1
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/52.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/52.m3u8
 #EXTINF:-1,Movistar Formula 1 (Opcion2)
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/53.ts
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/53.m3u8
+
