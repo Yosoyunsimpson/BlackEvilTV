@@ -1,4 +1,8 @@
-#EXTM3U BlackEvilTV
+#EXTM3U BlackEvilTV TV
+#EXTINF:-1,•●★www.BlacKEviLTV.org★●•
+http://spainfree.blackeviltv.org:9666/movie/blackeviltv/gratis/67.MP4
+#EXTINF:-1,•●★.:Actualizada el 10/12/2018:.★●•
+http://spainfree.blackeviltv.org:9666/movie/blackeviltv/gratis/68.MKV
 #EXTINF:-1,PORTADA
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/48.m3u8
 #EXTINF:-1,LA 1
@@ -31,8 +35,12 @@ http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/59.m3u8
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/47.m3u8
 #EXTINF:-1,La Liga TV
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/42.m3u8
+#EXTINF:-1,LA LIGA TV (opcion2)
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/74.m3u8
 #EXTINF:-1,LaLiga 123
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/58.m3u8
+#EXTINF:-1,La Liga 123 (Opcion2)
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/73.m3u8
 #EXTINF:-1,Movistar Liga de Campeones
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/34.m3u8
 #EXTINF:-1,Movistar Liga de Campeones (Opcion2)
@@ -45,12 +53,18 @@ http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/60.m3u8
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/55.m3u8
 #EXTINF:-1,Movistar Golf
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/22.m3u8
-#EXTINF:-1,GOLF
-http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/43.m3u8
+#EXTINF:-1,FIGHT CANAL 1
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/70.m3u8
+#EXTINF:-1,FIGHT CANAL 2
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/71.m3u8
+#EXTINF:-1,FIGHT CANAL 3
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/72.m3u8
 #EXTINF:-1,Movistar Formula 1
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/52.m3u8
 #EXTINF:-1,Movistar Formula 1 (Opcion2)
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/53.m3u8
+#EXTINF:-1,Movistar Moto GP
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/69.m3u8
 #EXTINF:-1,Movistar DCINE
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/15.m3u8
 #EXTINF:-1,Movistar Accion
@@ -65,6 +79,8 @@ http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/13.m3u8
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/14.m3u8
 #EXTINF:-1,Movistar Decasa
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/19.m3u8
+#EXTINF:-1,GOLF
+http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/43.m3u8
 #EXTINF:-1,Movistar Toros
 http://spainfree.blackeviltv.org:9666/live/blackeviltv/gratis/41.m3u8
 #EXTINF:-1,Hollywood
