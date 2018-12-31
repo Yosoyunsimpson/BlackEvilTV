@@ -1,4 +1,5 @@
-
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  
     
 <channels>
 
@@ -8,5 +9,16 @@
 <fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
 <link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</link>
    <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/addon.xml</externallink>
+</channel>
+  </channels>
+  
+<channels>
+
+<channel>
+      <name>Soporte</name>
+  <thumbnail>direccion de la portada</thumbnail>
+<fanart>https://i.imgur.com/1aAt5ZD.jpg</fanart>
+<link>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/soporte.xml</link>
+   <externallink>https://raw.githubusercontent.com/josetg01/BlackEvilTV/master/Codigos/soporte.xml</externallink>
 </channel>
   </channels>
